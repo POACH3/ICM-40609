@@ -3,7 +3,7 @@
 Library for ICM-40609-D found on the MikroElektronika 6DOF IMU 24 Click.
 
 ![Status](https://img.shields.io/badge/status-alpha-orange)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino)  
 <!--![Teensy 4.1](https://img.shields.io/badge/Teensy-4.1-blue)-->
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 <!--![Tests](https://img.shields.io/badge/tests-%20none-lightgrey)-->
